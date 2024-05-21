@@ -23,3 +23,5 @@ This repository contains the Candidate Smart Contract, utilized in the PCO Metav
 - withdrawAmount: Withdraw candidacy costs by the owner/operators.
 - addOperator: Assign operator roles.
 - removeOperator: Revoke operator roles.
+  
+For in-depth details, refer to the contract's source code or reach out for support.
